@@ -1,2 +1,2 @@
 # project
- Coffee Shop
+ Coffee Shop, the goat.
